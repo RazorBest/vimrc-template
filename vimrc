@@ -28,6 +28,9 @@ set colorcolumn=80
 
 let mapleader = " "
 
+set list
+set listchars=tab:≫\ 
+
 " Shortcuts
 " set timeoutlen=200
 " nnoremap o o<Esc>
